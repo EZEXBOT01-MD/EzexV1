@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/6283803595389
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283808840711','62 83184072215','6283184072215']
-global.premium = ['6283808840711']
+global.owner = ['6283803595389','6283803595389','6285656501947']
+global.premium = ['6283803595388']
 global.packname = '2022'
-global.author = 'KIKI ID'
-global.sessionName = 'kiki'
+global.author = 'EZEX ID'
+global.sessionName = 'Ezex'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
